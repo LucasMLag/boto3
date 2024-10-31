@@ -1,0 +1,155 @@
+2024-10-31 19:58:18,936 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 19:58:26,558 - INFO - Extracted BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 19:58:26,562 - ERROR - Error processing BRSP-TBT_1-020724041.zip: 'NoneType' object is not subscriptable
+2024-10-31 19:58:26,821 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:00:16,537 - INFO - Successfully downloaded Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip to /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip
+2024-10-31 20:00:55,133 - INFO - Extracted 38.02.01.01-LP_l0006.zip to /app/output/Maya/2/pending/ocr/
+2024-10-31 20:00:55,138 - ERROR - Error processing 38.02.01.01-LP_l0006.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:00:55,629 - INFO - Cleaned up /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip
+2024-10-31 20:01:34,396 - INFO - Successfully downloaded Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip to /app/output/Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip
+2024-10-31 20:01:49,992 - INFO - Extracted  38.02.02.02-LP-JUN-1999.zip to /app/output/Maya/3/pending/ocr/
+2024-10-31 20:01:49,997 - ERROR - Error processing  38.02.02.02-LP-JUN-1999.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:01:50,246 - INFO - Cleaned up /app/output/Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip
+2024-10-31 20:11:09,595 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:11:09,600 - ERROR - Error processing BRSP-TBT_1-020724041.zip: relation "zips" does not exist
+LINE 2:             INSERT INTO zips (file_path, status)
+                                ^
+
+2024-10-31 20:11:09,893 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:11:10,018 - ERROR - Error processing 38.02.01.01-LP_l0006.zip: relation "zips" does not exist
+LINE 2:             INSERT INTO zips (file_path, status)
+                                ^
+
+2024-10-31 20:11:10,273 - ERROR - Error processing  38.02.02.02-LP-JUN-1999.zip: relation "zips" does not exist
+LINE 2:             INSERT INTO zips (file_path, status)
+                                ^
+
+2024-10-31 20:11:10,399 - ERROR - Error processing 38.02.01.01-FO_0005.zip: relation "zips" does not exist
+LINE 2:             INSERT INTO zips (file_path, status)
+                                ^
+
+2024-10-31 20:11:10,575 - ERROR - Error processing 38.02.02.02-PE-FEV-DEZ-2008.zip: relation "zips" does not exist
+LINE 2:             INSERT INTO zips (file_path, status)
+                                ^
+
+2024-10-31 20:12:48,213 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:12:56,255 - INFO - Extracted BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 20:12:56,260 - ERROR - Error processing BRSP-TBT_1-020724041.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:12:56,522 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:14:45,785 - INFO - Successfully downloaded Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip to /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip
+2024-10-31 20:15:22,340 - INFO - Extracted 38.02.01.01-LP_l0006.zip to /app/output/Maya/2/pending/ocr/
+2024-10-31 20:15:22,345 - ERROR - Error processing 38.02.01.01-LP_l0006.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:15:22,825 - INFO - Cleaned up /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip
+2024-10-31 20:16:02,108 - INFO - Successfully downloaded Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip to /app/output/Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip
+2024-10-31 20:16:18,591 - INFO - Extracted  38.02.02.02-LP-JUN-1999.zip to /app/output/Maya/3/pending/ocr/
+2024-10-31 20:16:18,596 - ERROR - Error processing  38.02.02.02-LP-JUN-1999.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:16:20,579 - INFO - Cleaned up /app/output/Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip
+2024-10-31 20:19:45,945 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:19:56,089 - INFO - Extracted BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 20:19:56,094 - ERROR - Error processing BRSP-TBT_1-020724041.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:19:56,377 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:21:45,563 - INFO - Successfully downloaded Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip to /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip
+2024-10-31 20:22:23,071 - INFO - Extracted 38.02.01.01-LP_l0006.zip to /app/output/Maya/2/pending/ocr/
+2024-10-31 20:22:23,076 - ERROR - Error processing 38.02.01.01-LP_l0006.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:22:23,547 - INFO - Cleaned up /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip
+2024-10-31 20:23:04,300 - INFO - Successfully downloaded Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip to /app/output/Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip
+2024-10-31 20:23:19,256 - INFO - Extracted  38.02.02.02-LP-JUN-1999.zip to /app/output/Maya/3/pending/ocr/
+2024-10-31 20:23:19,261 - ERROR - Error processing  38.02.02.02-LP-JUN-1999.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:23:19,487 - INFO - Cleaned up /app/output/Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip
+2024-10-31 20:26:01,636 - INFO - Successfully downloaded Velar/2/pending/ocr/38.02.01.01-FO_0005.zip to /app/output/Velar/2/pending/ocr/38.02.01.01-FO_0005.zip
+2024-10-31 20:26:55,022 - INFO - Extracted 38.02.01.01-FO_0005.zip to /app/output/Velar/2/pending/ocr/
+2024-10-31 20:26:55,034 - ERROR - Error processing 38.02.01.01-FO_0005.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:26:55,830 - INFO - Cleaned up /app/output/Velar/2/pending/ocr/38.02.01.01-FO_0005.zip
+2024-10-31 20:28:28,428 - INFO - Successfully downloaded Velar/3/pending/ocr/38.02.02.02-PE-FEV-DEZ-2008.zip to /app/output/Velar/3/pending/ocr/38.02.02.02-PE-FEV-DEZ-2008.zip
+2024-10-31 20:29:03,215 - INFO - Extracted 38.02.02.02-PE-FEV-DEZ-2008.zip to /app/output/Velar/3/pending/ocr/
+2024-10-31 20:29:03,241 - ERROR - Error processing 38.02.02.02-PE-FEV-DEZ-2008.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:29:03,788 - INFO - Cleaned up /app/output/Velar/3/pending/ocr/38.02.02.02-PE-FEV-DEZ-2008.zip
+2024-10-31 20:38:53,212 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:39:01,146 - INFO - Extracted BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 20:39:01,151 - ERROR - Error processing BRSP-TBT_1-020724041.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:39:01,396 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:40:50,126 - INFO - Successfully downloaded Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip to /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip
+2024-10-31 20:41:27,644 - INFO - Extracted 38.02.01.01-LP_l0006.zip to /app/output/Maya/2/pending/ocr/
+2024-10-31 20:41:27,649 - ERROR - Error processing 38.02.01.01-LP_l0006.zip: 'NoneType' object is not subscriptable
+2024-10-31 20:41:28,146 - INFO - Cleaned up /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip
+2024-10-31 20:43:26,864 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:43:35,239 - INFO - Extracted BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 20:43:35,254 - ERROR - OCR processing error for /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041/: ImageIO does not generally support reading folders. Limited support may be available via specific plugins. Specify the plugin explicitly using the `plugin` kwarg, e.g. `plugin='DICOM'`
+2024-10-31 20:43:35,260 - ERROR - Error processing BRSP-TBT_1-020724041.zip: column "zip_id" of relation "files" does not exist
+LINE 2:             INSERT INTO files (zip_id, file_path, ocr_text, ...
+                                       ^
+
+2024-10-31 20:43:35,527 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:45:22,382 - INFO - Successfully downloaded Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip to /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip
+2024-10-31 20:46:02,992 - INFO - Extracted 38.02.01.01-LP_l0006.zip to /app/output/Maya/2/pending/ocr/
+2024-10-31 20:46:03,004 - ERROR - OCR processing error for /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006 - DANILO/: ImageIO does not generally support reading folders. Limited support may be available via specific plugins. Specify the plugin explicitly using the `plugin` kwarg, e.g. `plugin='DICOM'`
+2024-10-31 20:46:03,009 - ERROR - Error processing 38.02.01.01-LP_l0006.zip: column "zip_id" of relation "files" does not exist
+LINE 2:             INSERT INTO files (zip_id, file_path, ocr_text, ...
+                                       ^
+
+2024-10-31 20:46:03,516 - INFO - Cleaned up /app/output/Maya/2/pending/ocr/38.02.01.01-LP_l0006.zip
+2024-10-31 20:46:43,370 - INFO - Successfully downloaded Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip to /app/output/Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip
+2024-10-31 20:46:57,511 - INFO - Extracted  38.02.02.02-LP-JUN-1999.zip to /app/output/Maya/3/pending/ocr/
+2024-10-31 20:46:57,524 - ERROR - OCR processing error for /app/output/Maya/3/pending/ocr/38.02.02.02-LP-JUN-1999/: ImageIO does not generally support reading folders. Limited support may be available via specific plugins. Specify the plugin explicitly using the `plugin` kwarg, e.g. `plugin='DICOM'`
+2024-10-31 20:46:57,529 - ERROR - Error processing  38.02.02.02-LP-JUN-1999.zip: column "zip_id" of relation "files" does not exist
+LINE 2:             INSERT INTO files (zip_id, file_path, ocr_text, ...
+                                       ^
+
+2024-10-31 20:46:57,742 - INFO - Cleaned up /app/output/Maya/3/pending/ocr/ 38.02.02.02-LP-JUN-1999.zip
+2024-10-31 20:49:42,263 - INFO - Successfully downloaded Velar/2/pending/ocr/38.02.01.01-FO_0005.zip to /app/output/Velar/2/pending/ocr/38.02.01.01-FO_0005.zip
+2024-10-31 20:50:32,892 - INFO - Extracted 38.02.01.01-FO_0005.zip to /app/output/Velar/2/pending/ocr/
+2024-10-31 20:50:33,580 - ERROR - OCR processing error for /app/output/Velar/2/pending/ocr/Freguesia do α Sepultamento 0005 - LUIS.xlsx: Could not find a backend to open `/app/output/Velar/2/pending/ocr/Freguesia do α Sepultamento 0005 - LUIS.xlsx`` with iomode `r`.
+2024-10-31 20:50:33,584 - ERROR - Error processing 38.02.01.01-FO_0005.zip: column "zip_id" of relation "files" does not exist
+LINE 2:             INSERT INTO files (zip_id, file_path, ocr_text, ...
+                                       ^
+
+2024-10-31 20:50:34,381 - INFO - Cleaned up /app/output/Velar/2/pending/ocr/38.02.01.01-FO_0005.zip
+2024-10-31 20:50:34,679 - ERROR - Error processing 38.02.02.02-PE-FEV-DEZ-2008.zip: relation "zips" does not exist
+LINE 2:             INSERT INTO zips (file_path, status)
+                                ^
+
+2024-10-31 20:52:03,119 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:52:10,841 - INFO - Extracted BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 20:52:10,852 - ERROR - OCR processing error for /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041/: ImageIO does not generally support reading folders. Limited support may be available via specific plugins. Specify the plugin explicitly using the `plugin` kwarg, e.g. `plugin='DICOM'`
+2024-10-31 20:52:10,858 - ERROR - Error processing BRSP-TBT_1-020724041.zip: column "error_data" of relation "files" does not exist
+LINE 2: ...INTO files (zips_id, file_path, ocr_text, status, error_data...
+                                                             ^
+
+2024-10-31 20:52:11,110 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 20:52:42,095 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-020724042.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724042.zip
+2024-10-31 20:52:48,383 - INFO - Extracted BRSP-TBT_1-020724042.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 20:52:48,394 - ERROR - OCR processing error for /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724042/: ImageIO does not generally support reading folders. Limited support may be available via specific plugins. Specify the plugin explicitly using the `plugin` kwarg, e.g. `plugin='DICOM'`
+2024-10-31 20:52:48,399 - ERROR - Error processing BRSP-TBT_1-020724042.zip: column "error_data" of relation "files" does not exist
+LINE 2: ...INTO files (zips_id, file_path, ocr_text, status, error_data...
+                                                             ^
+
+2024-10-31 20:52:48,418 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724042.zip
+2024-10-31 20:53:05,208 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-020724043.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724043.zip
+2024-10-31 20:53:07,900 - INFO - Extracted BRSP-TBT_1-020724043.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 20:53:07,912 - ERROR - OCR processing error for /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724043/: ImageIO does not generally support reading folders. Limited support may be available via specific plugins. Specify the plugin explicitly using the `plugin` kwarg, e.g. `plugin='DICOM'`
+2024-10-31 20:53:07,917 - ERROR - Error processing BRSP-TBT_1-020724043.zip: column "error_data" of relation "files" does not exist
+LINE 2: ...INTO files (zips_id, file_path, ocr_text, status, error_data...
+                                                             ^
+
+2024-10-31 20:53:08,055 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724043.zip
+2024-10-31 20:53:21,205 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-030624029.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-030624029.zip
+2024-10-31 20:53:23,344 - INFO - Extracted BRSP-TBT_1-030624029.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 20:53:23,354 - ERROR - OCR processing error for /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-030624029/: ImageIO does not generally support reading folders. Limited support may be available via specific plugins. Specify the plugin explicitly using the `plugin` kwarg, e.g. `plugin='DICOM'`
+2024-10-31 20:53:23,359 - ERROR - Error processing BRSP-TBT_1-030624029.zip: column "error_data" of relation "files" does not exist
+LINE 2: ...INTO files (zips_id, file_path, ocr_text, status, error_data...
+                                                             ^
+
+2024-10-31 20:53:23,375 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-030624029.zip
+2024-10-31 20:53:49,396 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-030624223.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-030624223.zip
+2024-10-31 20:53:53,244 - INFO - Extracted BRSP-TBT_1-030624223.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 20:53:53,256 - ERROR - OCR processing error for /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-030624223/: ImageIO does not generally support reading folders. Limited support may be available via specific plugins. Specify the plugin explicitly using the `plugin` kwarg, e.g. `plugin='DICOM'`
+2024-10-31 20:53:53,260 - ERROR - Error processing BRSP-TBT_1-030624223.zip: column "error_data" of relation "files" does not exist
+LINE 2: ...INTO files (zips_id, file_path, ocr_text, status, error_data...
+                                                             ^
+
+2024-10-31 20:53:53,329 - INFO - Cleaned up /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-030624223.zip
+2024-10-31 21:00:22,215 - INFO - Successfully downloaded FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041.zip
+2024-10-31 21:00:30,134 - INFO - Extracted BRSP-TBT_1-020724041.zip to /app/output/FamilySearch/4/pending/manual/
+2024-10-31 21:00:30,144 - ERROR - OCR processing error for /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041/: ImageIO does not generally support reading folders. Limited support may be available via specific plugins. Specify the plugin explicitly using the `plugin` kwarg, e.g. `plugin='DICOM'`
+2024-10-31 21:00:49,643 - INFO - OCR completed for /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041/BRSP-TBT_1-020724041_0001.tif
+2024-10-31 21:00:59,549 - INFO - OCR completed for /app/output/FamilySearch/4/pending/manual/BRSP-TBT_1-020724041/BRSP-TBT_1-020724041_0002.tif

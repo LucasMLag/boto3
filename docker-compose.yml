@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  boto3:
+    build:
+      context: .              # Specifies the directory with your Dockerfile
+      dockerfile: Dockerfile  # Explicitly names Dockerfile (optional but explicit)
+    container_name: boto3
+    working_dir: /app         # Sets working directory in container
+    volumes:
+      - .:/app                # Mounts the current directory to /app in the container
+    depends_on:
+      - postgres              # Ensures PostgreSQL starts before the boto3 service
+    environment:
+      - DATABASE_HOST=postgres
+      - DATABASE_NAME=mydatabase
+      - DATABASE_USER=myuser
+      - DATABASE_PASSWORD=mypassword
+      - DATABASE_PORT=5432
+
+  postgres:
+    image: postgres:13         # Use the official PostgreSQL image
+    container_name: postgres
+    environment:
+      POSTGRES_DB: mydatabase
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data # Persistent storage for the database
+
+volumes:
+  postgres_data:               # Persistent volume for database storage
