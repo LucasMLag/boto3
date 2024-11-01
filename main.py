@@ -197,9 +197,14 @@ def process_zip(bucket_name, s3_path, output_dir):
             logger.info(f"Extracted {filename} to {output_dir}")
             zip_id = insert_zip_record(s3_path)
 
-            # Process zip files
+            # Process each extracted file
             for extracted_file in zip_ref.namelist():
                 file_path = os.path.join(output_dir, extracted_file)
+
+                # Skip directories in the extracted files
+                if os.path.isdir(file_path):
+                    logger.info(f"Skipping directory {file_path}")
+                    continue
                 
                 # Check if the file is already processed
                 if is_file_processed(file_path):
